@@ -1,8 +1,8 @@
 # ChromeRecover
 
-[![GitHub Release](https://img.shields.io/github/v/release/TagSteel/ChromeRecover?style=flat-square)](https://github.com/TagSteel/ChromeRecover/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey?style=flat-square)](https://github.com/TagSteel/ChromeRecover)
+[![GitHub Release](https://img.shields.io/github/v/release/TagSteel/ChromeRecover?display_name=release)](https://github.com/TagSteel/ChromeRecover/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)](https://github.com/TagSteel/ChromeRecover)
 
 **Decrypt and recover saved passwords from Chrome/Chromium encrypted storage**
 
