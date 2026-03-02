@@ -1,0 +1,6 @@
+# Windows dependencies
+pywin32; sys_platform == 'win32'
+
+# Linux dependencies
+pycryptodome; sys_platform == 'linux'
+python-dotenv; sys_platform == 'linux'
